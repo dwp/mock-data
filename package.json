@@ -1,0 +1,26 @@
+{
+  "name": "mock-data",
+  "version": "1.0.0",
+  "description": "Generate random data.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoneduca/mock-data.git"
+  },
+  "keywords": [],
+  "author": "Simone Duca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoneduca/mock-data/issues"
+  },
+  "homepage": "https://github.com/simoneduca/mock-data#readme"
+}
