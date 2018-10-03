@@ -14,6 +14,7 @@ for (i = 0; i <= 100; i++) {
   person.address = {
     'street': faker.fake("{{address.streetAddress}}"),
     'city': faker.fake("{{address.city}}"),
+    'zipcode': faker.fake("{{address.zipCode}}"),
     'county': faker.fake("{{address.county}}"),
   }
   person.phone = faker.fake("{{phone.phoneNumberFormat}}");
