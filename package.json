@@ -4,7 +4,7 @@
   "description": "Generate random data.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "faker": "^4.1.0"
   },
   "devDependencies": {
